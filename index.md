@@ -4,7 +4,7 @@
 <p align="left"> 3145143629</p>
 <p align="left"> Ilmu Komputer 2014</p>
 <p align="center"><b>TOWNSHIP REVIEW</b></p>
-<p align="center"><img src="https://github.com/aisyahnaqiyyah/aisyah.naqiyyah14.github.io/blob/master/WhatsApp%20Image%202017-09-11%20at%2022.14.59.jpeg"></p>
+<p align="center"><img src="https://github.com/aisyahnaqiyyah/aisyah.naqiyyah14.github.io/blob/master/WhatsApp%20Image%202017-09-11%20at%2022.14.59.jpeg" width="80%"></p>
 
 <p align="justify"> Township adalah game online berbasis real time yang dikembangkan oleh Playrix, sebuah pengembang game asal Dublin, Irlandia. Game ini aplikasinya bisa diinstal di gadget melalui Playstore maupun Google Play. Basicnya adalah game pertanian yang di padukan dengan kemahiran mengelola kota, dengan kita sebagai walikotanya. Bedanya dengan game yang sejenis menurut saya township itu lebih gampang, kita tidak perlu login lewat facebook lagi, langsung buka aplikasinya saja tetapi permainan kita tetap tersimpan dan terkoneksi lewat akun FB kita. Jadi, bisa diakses melalui gadget yang berbeda. </p>
 
@@ -27,3 +27,14 @@
 <p align="center"><img src="https://github.com/aisyahnaqiyyah/aisyah.naqiyyah14.github.io/blob/master/WhatsApp%20Image%202017-09-11%20at%2022.15.01%20(1).jpeg" width="50%"></p>
 
 <p align="justify">6.	Ada pula koperasi yaitu kelompok untuk bekerjasama memenangkan regatta(balapan kapal layar antan koperasi) atau dapat saling membantu mengisi bahan yang dimintai bantuan teman)</p>
+
+<p align="justify"> 7.	Ada fitur chat dalam Co-op / Koperasi sehingga bisa berinteraksi dengan teman kita yang dalam satu koperasi itu, berbagi dan saling membantu mengisi kereta dan pesawat terbang, mengobrol dengan chat. </p>
+
+<p align="justify"> 8.	Dari level 1-40 poin yang dibutuhkan untuk menaikki setiap levelnya cenderung lebih mudah dibandigkan gamesejenis. Apalagi bila kita memiliki banyak teman dalam co-op yang siap membantu kita.</p>
+
+<p align="justify"> 9.	Kids Friendly, bisa untuk sekalian mengenalkan nama-nama tanaman, bahan makanan, hewan dan apa yang dihasilkan, serta diolah untuk menjadi produk terbaru apa. </p>
+
+<p align="justify"> 10.	Bila dihubungkan dengan akun facebook dapat dimainkan dalam 2 gadget atau lebih dengan catatan akan diminta melakukan penyesuaian terlebih dahulu kalau salah satu gadget agak lama tidak digunakan. Jadi tidak perlu khawatir bila ganti gadget baru, karena pada dasarnya game telah tersimpan. </p>
+ 
+<p align="justify"><b>Kesimpulan:</b></p>
+<p align="justify">Menurut saya game ini memiliki daya tarik walaupun memang banyak tipe game yg sejenis tetapi dari beberapa sisi game ini lebih unggul dibanding yang lain. Yang membuat game ini seru adalah ketika kita dapat merasakan seperti sungguhan mengembangkan sebuah kota yang didalamnya ada pabrik, peternakan dan gedung gedung dan sebagainya dengan cara kita terus bermain secara beratahap sehingga kita dapat membentuk sebuah kota yang kita inginkan, dan game ini terkesan santai kita dapat memainkannya kapan saja dan tidak perlu terlalu fokus pada game sehingga tidak terlalu mengganngu kegiatan kita sehari-hari.</p>
