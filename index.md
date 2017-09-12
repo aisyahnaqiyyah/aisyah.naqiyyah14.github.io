@@ -36,8 +36,8 @@
 
 <p align="justify"> 10.	Bila dihubungkan dengan akun facebook dapat dimainkan dalam 2 gadget atau lebih dengan catatan akan diminta melakukan penyesuaian terlebih dahulu kalau salah satu gadget agak lama tidak digunakan. Jadi tidak perlu khawatir bila ganti gadget baru, karena pada dasarnya game telah tersimpan. </p>
 
-<p align="justify"><b> Kelemahan </b></p>
+<p align="justify"><b> KELEMAHAN </b></p>
 <p align="justify">Kelemahan dari game ini yaitu kita harus terhubung dengan internet (game online)</p>
  
-<p align="justify"><b>Kesimpulan:</b></p>
+<p align="justify"><b>KESIMPULAN:</b></p>
 <p align="justify">Menurut saya game ini memiliki daya tarik walaupun memang banyak tipe game yg sejenis tetapi dari beberapa sisi game ini lebih unggul dibanding yang lain. Yang membuat game ini seru adalah ketika kita dapat merasakan seperti sungguhan mengembangkan sebuah kota yang didalamnya ada pabrik, peternakan dan gedung gedung dan sebagainya dengan cara kita terus bermain secara beratahap sehingga kita dapat membentuk sebuah kota yang kita inginkan, dan game ini terkesan santai kita dapat memainkannya kapan saja dan tidak perlu terlalu fokus pada game sehingga tidak terlalu mengganngu kegiatan kita sehari-hari.</p>
