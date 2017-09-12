@@ -6,10 +6,10 @@
 <p align="center"><b>TOWNSHIP REVIEW</b></p>
 <p align="center"><img src="https://3.bp.blogspot.com/-RZqgetnWXNg/WbfGT5vPq_I/AAAAAAAAAC0/pliOObg4VHECuj9s5Sa497jpB4bH0sf3wCLcBGAs/s320/WhatsApp%2BImage%2B2017-09-11%2Bat%2B22.14.59.jpeg" width="80%"></p>
 
-p align="left"> As a desaigner</p>
+<p align="left"> As a desaigner</p>
 <p align="justify"> Township adalah game online berbasis real time yang dikembangkan oleh Playrix, sebuah pengembang game asal Dublin, Irlandia. Game ini aplikasinya bisa diinstal di gadget melalui Playstore maupun Google Play. Basicnya adalah game pertanian yang di padukan dengan kemahiran mengelola kota, dengan kita sebagai walikotanya. Bedanya dengan game yang sejenis menurut saya township itu lebih gampang, kita tidak perlu login lewat facebook lagi, langsung buka aplikasinya saja tetapi permainan kita tetap tersimpan dan terkoneksi lewat akun FB kita. Jadi, bisa diakses melalui gadget yang berbeda. </p>
 
-p align="left"><b> LEARNING LAYER</b></p>
+<p align="left"><b> LEARNING LAYER</b></p>
 <p align="justify"> Disini desaigner mengharapkan game ini lebih unggul daripada game bercocok tanam lainnya dengan memiliki kelebihan terdapat dalam satu buah permainan yaitu berkebun dan membangun kota tentunya sangat jarang kita temukan pada permainaan lainnya di Google Play store dan ini sangat menarik. Jika dibandingkan dengan yang lainnya Township memiliki keunggulan dalam hal berkebun disertai gameplay membangun kota.  </p>
 
 <p align="justify"> Jika kita bermain ini biasanya kita akan selalu terpatok oleh waktu dikarenakan setiap produksi atau pekerjaan digame ini berbasis real time sehingga efek sampingnya kita akan memainkannya terus menerus agar kota kita berkembang. Dan saya sendiri juga memainkan permainan ini, dengan profil berikut: </p>
@@ -23,6 +23,7 @@ p align="left"><b> LEARNING LAYER</b></p>
 <p align="justify"><b>STORYTELLING LAYER</b></p>
 <p align="justify"> Game ini lebih menceritakan tentang tata cara berkebun, memproduksi/ mengelola pabrik, dan menata kota. Banyak yang perlu diperhitungkan dalam memainkan game ini karena pengelolaanya harus tepat dan teratur agar kota kita berkembang dengan sempurna. </p>
 
+<p align="justify"><b>GAME PLAY LAYER</b></p>
 <p align="justify">1.	Grafisnya keren, banyak animasi yang bergerak, misalnya para pejalan kaki, berbagai jenis kendaraan, kegiatan produksi di pabrik dan lainnya.</p>
 <p align="justify">2.	Mudah dimainkan, bila kurang jelas masih terdapat suporting group yang bisa kita akses melalui game di official facebook maupun forum situsnya.</p>
 <p align="justify">3.	Fiturnya makin lengkap dalam setiap update terbarunya.</p>
@@ -39,10 +40,10 @@ p align="left"><b> LEARNING LAYER</b></p>
 
 <p align="justify"> 9.	Kids Friendly, bisa untuk sekalian mengenalkan nama-nama tanaman, bahan makanan, hewan dan apa yang dihasilkan, serta diolah untuk menjadi produk terbaru apa. </p>
 
-<p align="justify"> 10.	Bila dihubungkan dengan akun facebook dapat dimainkan dalam 2 gadget atau lebih dengan catatan akan diminta melakukan penyesuaian terlebih dahulu kalau salah satu gadget agak lama tidak digunakan. Jadi tidak perlu khawatir bila ganti gadget baru, karena pada dasarnya game telah tersimpan. </p>
+<p align="justify"><b> USER EXPERIENCE LAYER </b></p>
+<p align="justify"> 1. Game ini berbasis online dan hanya dapat dimainkan di handphone yang berbasis Android/iOS </p>
+<p align="justify"> 2. Bila dihubungkan dengan akun facebook dapat dimainkan dalam 2 gadget atau lebih dengan catatan akan diminta melakukan penyesuaian terlebih dahulu kalau salah satu gadget agak lama tidak digunakan. Jadi tidak perlu khawatir bila ganti gadget baru, karena pada dasarnya game telah tersimpan. </p>
 
-<p align="justify"><b> KELEMAHAN </b></p>
-<p align="justify">Kelemahan dari game ini yaitu kita harus terhubung dengan internet (game online)</p>
  
 p align="left"> As a player</p>
 <p align="justify"><b>KETERTARIKAN PADA GAME INI:</b></p>
