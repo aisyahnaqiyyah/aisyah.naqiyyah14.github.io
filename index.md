@@ -8,7 +8,7 @@
 
 <p align="justify"> Township adalah game online berbasis real time yang dikembangkan oleh Playrix, sebuah pengembang game asal Dublin, Irlandia. Game ini aplikasinya bisa diinstal di gadget melalui Playstore maupun Google Play. Basicnya adalah game pertanian yang di padukan dengan kemahiran mengelola kota, dengan kita sebagai walikotanya. Bedanya dengan game yang sejenis menurut saya township itu lebih gampang, kita tidak perlu login lewat facebook lagi, langsung buka aplikasinya saja tetapi permainan kita tetap tersimpan dan terkoneksi lewat akun FB kita. Jadi, bisa diakses melalui gadget yang berbeda. </p>
 
-<p align="justify"> Jika kita bermain ini biasanya kita akan selalu terpatok oleh waktu dikarenakan setiap produksi atau pekerjaan digame ini berbasis real time sehingga efek sampingnya kita akan memainkannya terus menerus, menurut saya sih game ini waste time banget soalnya selalu harus di control agar kota kita berkembang. Dan saya sendiri juga memainkan permainan ini, dengan profil berikut: </p>
+<p align="justify"> Jika kita bermain ini biasanya kita akan selalu terpatok oleh waktu dikarenakan setiap produksi atau pekerjaan digame ini berbasis real time sehingga efek sampingnya kita akan memainkannya terus menerus agar kota kita berkembang. Dan saya sendiri juga memainkan permainan ini, dengan profil berikut: </p>
 
 <p align="center"><img src="https://4.bp.blogspot.com/-oTDEdglMg-k/WbfHSZgB-MI/AAAAAAAAADA/G-BQ_T4meCcUQPuTBWdh0u5D7yfqT2wKQCLcBGAs/s1600/WhatsApp%2BImage%2B2017-09-11%2Bat%2B22.15.01.jpeg" width="50%"></p>
 
