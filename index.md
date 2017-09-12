@@ -22,7 +22,7 @@
 <p align="justify">2.	Mudah dimainkan, bila kurang jelas masih terdapat suporting group yang bisa kita akses melalui game di official facebook maupun forum situsnya.</p>
 <p align="justify">3.	Fiturnya makin lengkap dalam setiap update terbarunya.</p>
 <p align="justify">4.	Dan game ini akan berganti tema setiap ada event tertentu seperti natal dan haloween.</p>
-<p align="justify">5.	Permainan di dalam game (mini game) banyak dan tidak membosankan, terutama ada House of luck (memilih kotak keberuntungan dengan memakai clover yang dikumpulkan dari kembantu mengisi pesawat, kereta api dan bahan yang diminta teman), menggali bahan tambang sekaligus mengumpulkan bonus dan benda-benda yang dapat dipajang di museum, serta pertandingan regatta (balapan kapal layar yang diikuti perkelompok koperasi dengan menghitung akumulasi poin dari masing-masinh angota dalam menyelasaikan setiap tugas yang dipilih sendiri dalam daftar tugas yang diberikan).</p>
+<p align="justify">5.	Permainan di dalam game (mini game) banyak dan tidak membosankan, terutama ada House of luck (memilih kotak keberuntungan dengan memakai clover yang dikumpulkan dari membantu mengisi pesawat, kereta api dan bahan yang diminta teman), menggali bahan tambang sekaligus mengumpulkan bonus dan benda-benda yang dapat dipajang di museum, serta pertandingan regatta (balapan kapal layar yang diikuti perkelompok koperasi dengan menghitung akumulasi poin dari masing-masinh angota dalam menyelasaikan setiap tugas yang dipilih sendiri dalam daftar tugas yang diberikan).</p>
 
 <p align="center"><img src="https://2.bp.blogspot.com/-FQmVVx8Ih64/WbfH-CqaceI/AAAAAAAAADI/dhq5oNx81xkbHGGIqOKAHyrofFZpAl2xACLcBGAs/s1600/maxresdefault.jpg" width="50%"></p>
 
@@ -35,6 +35,9 @@
 <p align="justify"> 9.	Kids Friendly, bisa untuk sekalian mengenalkan nama-nama tanaman, bahan makanan, hewan dan apa yang dihasilkan, serta diolah untuk menjadi produk terbaru apa. </p>
 
 <p align="justify"> 10.	Bila dihubungkan dengan akun facebook dapat dimainkan dalam 2 gadget atau lebih dengan catatan akan diminta melakukan penyesuaian terlebih dahulu kalau salah satu gadget agak lama tidak digunakan. Jadi tidak perlu khawatir bila ganti gadget baru, karena pada dasarnya game telah tersimpan. </p>
+
+<p align="justify"><b> Kelemahan </b></p>
+<p align="justify">Kelemahan dari game ini yaitu kita harus terhubung dengan internet (game online)</p>
  
 <p align="justify"><b>Kesimpulan:</b></p>
 <p align="justify">Menurut saya game ini memiliki daya tarik walaupun memang banyak tipe game yg sejenis tetapi dari beberapa sisi game ini lebih unggul dibanding yang lain. Yang membuat game ini seru adalah ketika kita dapat merasakan seperti sungguhan mengembangkan sebuah kota yang didalamnya ada pabrik, peternakan dan gedung gedung dan sebagainya dengan cara kita terus bermain secara beratahap sehingga kita dapat membentuk sebuah kota yang kita inginkan, dan game ini terkesan santai kita dapat memainkannya kapan saja dan tidak perlu terlalu fokus pada game sehingga tidak terlalu mengganngu kegiatan kita sehari-hari.</p>
