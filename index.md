@@ -4,7 +4,7 @@
 <p align="left"> 3145143629</p>
 <p align="left"> Ilmu Komputer 2014</p>
 <p align="center"><b>TOWNSHIP REVIEW</b></p>
-<p align="center"><img src="https://www.google.co.id/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiM-Ovrvp_WAhUOO7wKHapFCFwQjRwIBw&url=http%3A%2F%2Fwww.bluestacks.com%2Fapps%2Fcasual%2Ftownship-on-pc.html&psig=AFQjCNHsmGHDfTmoHVaEEXFnI8I-uE-d6Q&ust=1505300317920548" width="80%"></p>
+<p align="center"><img src="https://3.bp.blogspot.com/-RZqgetnWXNg/WbfGT5vPq_I/AAAAAAAAAC0/pliOObg4VHECuj9s5Sa497jpB4bH0sf3wCLcBGAs/s320/WhatsApp%2BImage%2B2017-09-11%2Bat%2B22.14.59.jpeg" width="80%"></p>
 
 <p align="justify"> Township adalah game online berbasis real time yang dikembangkan oleh Playrix, sebuah pengembang game asal Dublin, Irlandia. Game ini aplikasinya bisa diinstal di gadget melalui Playstore maupun Google Play. Basicnya adalah game pertanian yang di padukan dengan kemahiran mengelola kota, dengan kita sebagai walikotanya. Bedanya dengan game yang sejenis menurut saya township itu lebih gampang, kita tidak perlu login lewat facebook lagi, langsung buka aplikasinya saja tetapi permainan kita tetap tersimpan dan terkoneksi lewat akun FB kita. Jadi, bisa diakses melalui gadget yang berbeda. </p>
 
