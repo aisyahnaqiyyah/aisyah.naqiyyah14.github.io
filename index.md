@@ -14,7 +14,7 @@
 
 <p align="justify">dan ini tampilan kota saya: </p>
 
-<p align="center"><https://4.bp.blogspot.com/-oTDEdglMg-k/WbfHSZgB-MI/AAAAAAAAADA/G-BQ_T4meCcUQPuTBWdh0u5D7yfqT2wKQCLcBGAs/s1600/WhatsApp%2BImage%2B2017-09-11%2Bat%2B22.15.01.jpeg" width="50%"></p>
+<p align="center"><"https://4.bp.blogspot.com/-s4HkkhVjUi0/WbfHSV-mfnI/AAAAAAAAAC8/0e32ce2ll0M1fBUSgtREnKIJsT6g9X7AwCLcBGAs/s1600/WhatsApp%2BImage%2B2017-09-11%2Bat%2B22.15.01%2B%25281%2529.jpeg" width="50%"></p>
 
 <p align="justify"><b>KELEBIHAN:</b></p>
 
