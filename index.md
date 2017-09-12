@@ -45,6 +45,6 @@
 <p align="justify"> 2. Bila dihubungkan dengan akun facebook dapat dimainkan dalam 2 gadget atau lebih dengan catatan akan diminta melakukan penyesuaian terlebih dahulu kalau salah satu gadget agak lama tidak digunakan. Jadi tidak perlu khawatir bila ganti gadget baru, karena pada dasarnya game telah tersimpan. </p>
 
  
-p align="left"> As a player</p>
+<p align="left"> As a player</p>
 <p align="justify"><b>KETERTARIKAN PADA GAME INI:</b></p>
 <p align="justify">Menurut saya game ini memiliki daya tarik walaupun memang banyak tipe game yg sejenis tetapi dari beberapa sisi game ini menurut saya lebih unggul dibanding yang lain, seperti grafisnya bagus, banyak yang mendownload, penilaian bintangnya juga banyak, dan terlihat seru. Yang membuat game ini seru adalah ketika kita dapat merasakan seperti sungguhan mengembangkan sebuah kota yang didalamnya ada pabrik, peternakan, gedung gedung dan sebagainya. Cara mengembangkannya dengan cara kita terus bermain secara beratahap sehingga kita dapat membentuk sebuah kota yang kita inginkan, dan game ini terkesan santai kita dapat memainkannya kapan saja dan tidak perlu terlalu fokus pada game sehingga tidak terlalu mengganggu kegiatan kita sehari-hari.</p>
