@@ -6,9 +6,9 @@
 <p align="center"><b>TOWNSHIP REVIEW</b></p>
 <p align="center"><img src="https://3.bp.blogspot.com/-RZqgetnWXNg/WbfGT5vPq_I/AAAAAAAAAC0/pliOObg4VHECuj9s5Sa497jpB4bH0sf3wCLcBGAs/s320/WhatsApp%2BImage%2B2017-09-11%2Bat%2B22.14.59.jpeg" width="80%"></p>
 
-<p align="left"> As a desaigner</p>
 <p align="justify"> Township adalah game online berbasis real time yang dikembangkan oleh Playrix, sebuah pengembang game asal Dublin, Irlandia. Game ini aplikasinya bisa diinstal di gadget melalui Playstore maupun Google Play. Basicnya adalah game pertanian yang di padukan dengan kemahiran mengelola kota, dengan kita sebagai walikotanya. Bedanya dengan game yang sejenis menurut saya township itu lebih gampang, kita tidak perlu login lewat facebook lagi, langsung buka aplikasinya saja tetapi permainan kita tetap tersimpan dan terkoneksi lewat akun FB kita. Jadi, bisa diakses melalui gadget yang berbeda. </p>
 
+<p align="left"> As a desaigner</p>
 <p align="left"><b> LEARNING LAYER</b></p>
 <p align="justify"> Disini desaigner mengharapkan game ini lebih unggul daripada game bercocok tanam lainnya dengan memiliki kelebihan terdapat dalam satu buah permainan yaitu berkebun dan membangun kota tentunya sangat jarang kita temukan pada permainaan lainnya di Google Play store dan ini sangat menarik. Jika dibandingkan dengan yang lainnya Township memiliki keunggulan dalam hal berkebun disertai gameplay membangun kota.  </p>
 
