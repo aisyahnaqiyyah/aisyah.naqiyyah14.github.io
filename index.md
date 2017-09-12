@@ -12,13 +12,7 @@
 <p align="left"><b> LEARNING LAYER</b></p>
 <p align="justify"> Disini desaigner mengharapkan game ini lebih unggul daripada game bercocok tanam lainnya dengan memiliki kelebihan terdapat dalam satu buah permainan yaitu berkebun dan membangun kota tentunya sangat jarang kita temukan pada permainaan lainnya di Google Play store dan ini sangat menarik. Jika dibandingkan dengan yang lainnya Township memiliki keunggulan dalam hal berkebun disertai gameplay membangun kota.  </p>
 
-<p align="justify"> Jika kita bermain ini biasanya kita akan selalu terpatok oleh waktu dikarenakan setiap produksi atau pekerjaan digame ini berbasis real time sehingga efek sampingnya kita akan memainkannya terus menerus agar kota kita berkembang. Dan saya sendiri juga memainkan permainan ini, dengan profil berikut: </p>
-
-<p align="center"><img src="https://4.bp.blogspot.com/-oTDEdglMg-k/WbfHSZgB-MI/AAAAAAAAADA/G-BQ_T4meCcUQPuTBWdh0u5D7yfqT2wKQCLcBGAs/s1600/WhatsApp%2BImage%2B2017-09-11%2Bat%2B22.15.01.jpeg" width="50%"></p>
-
-<p align="justify">dan ini tampilan kota saya: </p>
-
-<p align="center"><img src="https://4.bp.blogspot.com/-s4HkkhVjUi0/WbfHSV-mfnI/AAAAAAAAAC8/0e32ce2ll0M1fBUSgtREnKIJsT6g9X7AwCLcBGAs/s1600/WhatsApp%2BImage%2B2017-09-11%2Bat%2B22.15.01%2B%25281%2529.jpeg" width="50%"></p>
+<p align="justify"> Jika kita bermain ini biasanya kita akan selalu terpatok oleh waktu dikarenakan setiap produksi atau pekerjaan digame ini berbasis real time sehingga efek sampingnya kita akan memainkannya terus menerus agar kota kita berkembang. </p>
 
 <p align="justify"><b>STORYTELLING LAYER</b></p>
 <p align="justify"> Game ini lebih menceritakan tentang tata cara berkebun, memproduksi/ mengelola pabrik, dan menata kota. Banyak yang perlu diperhitungkan dalam memainkan game ini karena pengelolaanya harus tepat dan teratur agar kota kita berkembang dengan sempurna. </p>
@@ -47,4 +41,10 @@
  
 <p align="center"> As a player</p>
 <p align="justify"><b>KETERTARIKAN PADA GAME INI:</b></p>
-<p align="justify">Menurut saya game ini memiliki daya tarik walaupun memang banyak tipe game yg sejenis tetapi dari beberapa sisi game ini menurut saya lebih unggul dibanding yang lain, seperti grafisnya bagus, banyak yang mendownload, penilaian bintangnya juga banyak, dan terlihat seru. Yang membuat game ini seru adalah ketika kita dapat merasakan seperti sungguhan mengembangkan sebuah kota yang didalamnya ada pabrik, peternakan, gedung gedung dan sebagainya. Cara mengembangkannya dengan cara kita terus bermain secara beratahap sehingga kita dapat membentuk sebuah kota yang kita inginkan, dan game ini terkesan santai kita dapat memainkannya kapan saja dan tidak perlu terlalu fokus pada game sehingga tidak terlalu mengganggu kegiatan kita sehari-hari.</p>
+<p align="justify">Menurut saya game ini memiliki daya tarik walaupun memang banyak tipe game yg sejenis tetapi dari beberapa sisi game ini menurut saya lebih unggul dibanding yang lain, seperti grafisnya bagus, banyak yang mendownload, penilaian bintangnya juga banyak, dan terlihat seru. Yang membuat game ini seru adalah ketika kita dapat merasakan seperti sungguhan mengembangkan sebuah kota yang didalamnya ada pabrik, peternakan, gedung gedung dan sebagainya. Cara mengembangkannya dengan cara kita terus bermain secara beratahap sehingga kita dapat membentuk sebuah kota yang kita inginkan, dan game ini terkesan santai kita dapat memainkannya kapan saja dan tidak perlu terlalu fokus pada game sehingga tidak terlalu mengganggu kegiatan kita sehari-hari.  Dan saya sendiri juga memainkan permainan ini, dengan profil berikut:</p>
+
+<p align="center"><img src="https://4.bp.blogspot.com/-oTDEdglMg-k/WbfHSZgB-MI/AAAAAAAAADA/G-BQ_T4meCcUQPuTBWdh0u5D7yfqT2wKQCLcBGAs/s1600/WhatsApp%2BImage%2B2017-09-11%2Bat%2B22.15.01.jpeg" width="50%"></p>
+
+<p align="justify">dan ini tampilan kota saya: </p>
+
+<p align="center"><img src="https://4.bp.blogspot.com/-s4HkkhVjUi0/WbfHSV-mfnI/AAAAAAAAAC8/0e32ce2ll0M1fBUSgtREnKIJsT6g9X7AwCLcBGAs/s1600/WhatsApp%2BImage%2B2017-09-11%2Bat%2B22.15.01%2B%25281%2529.jpeg" width="50%"></p>
