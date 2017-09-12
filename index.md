@@ -10,11 +10,11 @@
 
 <p align="justify"> Jika kita bermain ini biasanya kita akan selalu terpatok oleh waktu dikarenakan setiap produksi atau pekerjaan digame ini berbasis real time sehingga efek sampingnya kita akan memainkannya terus menerus, menurut saya sih game ini waste time banget soalnya selalu harus di control agar kota kita berkembang. Dan saya sendiri juga memainkan permainan ini, dengan profil berikut: </p>
 
-<p align="center"><img src="https://github.com/aisyahnaqiyyah/aisyah.naqiyyah14.github.io/blob/master/WhatsApp%20Image%202017-09-11%20at%2022.15.01.jpeg" width="50%"></p>
+<p align="center"><img src="http://aisyahnaqiyyah96.blogspot.co.id/2017/09/blog-post.html" width="50%"></p>
 
 <p align="justify">dan ini tampilan kota saya: </p>
 
-<p align="center"><img src="https://github.com/aisyahnaqiyyah/aisyah.naqiyyah14.github.io/blob/master/WhatsApp%20Image%202017-09-11%20at%2022.15.01%20(1).jpeg" width="50%"></p>
+<p align="center"><img src="http://aisyahnaqiyyah96.blogspot.co.id/2017/09/blog-post.html.jpeg" width="50%"></p>
 
 <p align="justify"><b>KELEBIHAN:</b></p>
 
@@ -24,7 +24,7 @@
 <p align="justify">4.	Dan game ini akan berganti tema setiap ada event tertentu seperti natal dan haloween.</p>
 <p align="justify">5.	Permainan di dalam game (mini game) banyak dan tidak membosankan, terutama ada House of luck (memilih kotak keberuntungan dengan memakai clover yang dikumpulkan dari kembantu mengisi pesawat, kereta api dan bahan yang diminta teman), menggali bahan tambang sekaligus mengumpulkan bonus dan benda-benda yang dapat dipajang di museum, serta pertandingan regatta (balapan kapal layar yang diikuti perkelompok koperasi dengan menghitung akumulasi poin dari masing-masinh angota dalam menyelasaikan setiap tugas yang dipilih sendiri dalam daftar tugas yang diberikan).</p>
 
-<p align="center"><img src="https://github.com/aisyahnaqiyyah/aisyah.naqiyyah14.github.io/blob/master/maxresdefault.jpg" width="50%"></p>
+<p align="center"><img src="http://aisyahnaqiyyah96.blogspot.co.id/2017/09/blog-post.html" width="50%"></p>
 
 <p align="justify">6.	Ada pula koperasi yaitu kelompok untuk bekerjasama memenangkan regatta(balapan kapal layar antan koperasi) atau dapat saling membantu mengisi bahan yang dimintai bantuan teman)</p>
 
